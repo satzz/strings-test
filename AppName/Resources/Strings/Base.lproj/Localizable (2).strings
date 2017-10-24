@@ -1,0 +1,287 @@
+/* 
+  Localizable.strings
+  ScoreMatch
+
+  Created by Quyen Xuan on 9/16/17.
+  Copyright © 2017 Innovatube. All rights reserved.
+*/
+
+"Group" = "Group";
+
+"Any Group" = "Any Group";
+
+"Switch to singles" = "Switch to singles";
+
+"Switch to doubles" = "Switch to doubles";
+
+"Add new game" = "Add new game";
+
+"Create group success" = "Create group success";
+
+"Create group error" = "Create group error";
+
+"Failed" = "Failed";
+
+"Success" = "Success";
+
+"Login" = "Login";
+
+"SignUp error" = "SignUp error";
+
+"SignUp" = "SignUp";
+
+"Start" = "Start";
+
+"Next" = "Next";
+
+"OK" = "OK";
+
+"Cancel" = "Cancel";
+
+"Delete" = "Delete";
+
+"Skip" = "Skip";
+
+"Done" = "Done";
+
+"Unnamed" = "Unnamed";
+
+"Are you sure you want to skip the tutorial? You can call the tutorial again anytime from \"Settings/Others\"" = "Are you sure you want to skip the tutorial? You can call the tutorial again anytime from \"Settings/Others\"";
+
+"Add new match" = "Add new match";
+"Enter new score" = "Enter new score";
+"Edit score" = "Edit score";
+
+"Select court surface type" = "Select court surface type";
+
+"Unnamed authority" = "Unnamed authority";
+
+"Do not register in group" = "Do not register in group";
+
+"New group" = "New group";
+
+"Sorry! There are no images here!" = "Sorry! There are no images here!";
+
+// Score history
+"Score history" = "Score history";
+"Score history empty" = "There is no information to display.\nEnter a new score from here";
+
+"Member list" = "Member list";
+
+// Ranking
+"Ranking" = "Ranking";
+"Winning percentage" = "Winning percentage";
+"Victory number" = "Victory number";
+
+// Group popup list
+"Select a group to register scores" = "Select a group to register scores";
+"Whichever group you register, you can see it in the home feed" = "Whichever group you register, you can see it in the home feed.";
+
+// Group settings screen
+"Group setting" = "Group setting";
+"Group name" = "Group name";
+"Group avatar" = "Group avatar";
+"Are you sure you want to leave this group?" = "Are you sure you want to leave this group?";
+"Leave" = "Leave";
+"Leave success" = "Leave success";
+"Leave group" = "Leave group";
+"Error leave" = "Error leave";
+
+// Member list and recent opponents screen
+"Selection of athlete" = "Selection of athlete";
+"Get members error" = "Get member error";
+"Search results" = "Search results";
+"Enter name etc." = "Enter name etc.";
+"Recent opponents" = "Recent opponents";
+
+// Home screen
+"Home" = "Home";
+
+"User" = "User";
+
+"Report" = "Report";
+
+// Score statistics
+"Score statistics" = "Score statistics";
+"Winning percentage" = "Winning percentate";
+"Win" = "Win";
+"Defeat" = "Defeat";
+"Server keep rate" = "Server keep rate";
+"Service ace" = "Service ace";
+"Double fault rate" = "Double fault rate";
+"Winner rate" = "Winer rate";
+"Miss rate" = "Miss rate";
+"Total games" = "Total game";
+"Singles" = "Singles";
+"Doubles" = "Doubles";
+
+"Score statistics empty" = "There is no information to display.\nAs the score history accumulates\nAnalysis results of various information will be displayed here.\n\nEnter a new score from here";
+
+// Side menu
+"Add new group" = "Add new group";
+"Group name" = "Group name";
+
+// Forgot password
+"Unknown error from server" = "Unknown error from server";
+
+"Please check your email and following the guide" = "Please check your email and following the guide";
+
+// Settings screen
+"Application settings" = "Application settings";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Unknown error" = "Unknown error";
+"Logout error" = "Logout error";
+"User information" = "User information";
+"Notification settings" = "Notification settings";
+"Tutorial" = "Tutotial";
+"Help" = "Help";
+"Contact Us" = "Contact Us";
+"Terms of services" = "Terms of services";
+"Privacy policy" = "Privacy policy";
+"Version information" = "Version information";
+"Logout" = "Logout";
+
+// User settings
+"Edit profile" = "Edit profile";
+"Profile image" = "Profile image";
+"Country" = "Country";
+"Birthday" = "Birthday";
+"Sex" = "Sex";
+"Gender" = "Gender";
+
+// Notification settings
+"When you create new score" = "When you create new score";
+"When your participate edit the score" = "When your participate edit the score";
+"When group score create" = "When group score create";
+
+// Tutorial screen - it's a temporary string and will be change later
+"Tutorial 1/4" = "Tutorial 1/4";
+"Tutorial 2/4" = "Tutorial 2/4";
+"Tutorial 3/4" = "Tutorial 3/4";
+"Tutorial 4/4" = "Tutorial 4/4";
+"Easy to operate \n Tennis score \n Record in app" = "Easy to operate \n Tennis score \n Record in app";
+"From the input score \n Win rate / mistake probability etc. \n Automatic analysis" = "From the input score \n Win rate / mistake probability etc. \n Automatic analysis";
+"Easily manage team and circle members with group functions" = "Easily manage team and circle members with group functions";
+"Easily confirm score ranking within group" = "Easily confirm score ranking within group";
+
+// Signin
+"Skip" = "Skip";
+"Email" = "Email";
+"Password" = "Password";
+"Signin" = "Sign in";
+"Did you forget your password?" = "Did you forget your password?";
+"Signin with Facebook?" = "Signin with Facebook?";
+"Would you like to create new account?" = "Would you like to create new account?";
+
+// Signin - dialog
+"Signin..." = "    Signin...    ";
+
+// Forgot password
+"Enter your email address" = "Enter your email address";
+"Send" = "Send";
+"Close" = "Close";
+
+// Signup
+"Name" = "Name";
+"Sign up" = "Sign up";
+"Successfully sign up" = "Successfully sign up";
+"By creating an account, you agree to the terms of use and privacy policy." = "By creating an account, you agree to the terms of use and privacy policy.";
+"Signup with Facebook?" = "Signup with Facebook?";
+"Already have an account?" = "Already have an account?";
+"Confirmation email has been sent. Please check your inbox and follow guide to continue" = "Confirmation email has been sent. Please check your inbox and follow guide to continue";
+
+// Signup - dialog
+"Signup..." = "    Signup...    ";
+
+// Signup - error string
+"Sign up error" = "Sign up error";
+"Facebook sign up error" = "Facebook sign up error";
+
+//
+"All periods" = "All periods";
+
+// Court surface type
+"Hard" = "Hard";
+"Omni" = "Omni";
+"Clay" = "Clay";
+"Other" = "Other";
+
+// Add new match
+"Add set" = "Add set";
+"Save" = "Save";
+"Please select" = "Please select";
+
+// Add new match - dialog
+"Saving..." = "        Saving...        ";
+"Add match success" = "Add match success";
+"Edit match success" = "Edit match success";
+"Duplicate member" = "Duplicate member";
+"This member is already on match, please select another one" = "This member is already on match, please select another one";
+
+// New set
+"Server setting" = "Server setting";
+"First server" = "First server";
+"Second server" = "Second server";
+"Change" = "Change";
+"Are you sure you want to change server orders?" = "Are you sure you want to change server orders?";
+"If server order changed, all exist games will be delete. This action can not be undo" = "If server order changed, all exist games will be delete. This action can not be undo";
+
+// Choose first server popup
+"Select the 1st server" = "Select the 1st server";
+"Please tap the first server." = "Please tap the first server.";
+"Select the 2nd server" = "Select the 2nd server";
+"Please tap the second server." = "Please tap the second server";
+
+// New game
+"Tie break" = "Tie break";
+"Undo" = "Undo";
+
+// New point
+"Add point" = "Add point";
+
+// Point reason type
+"Double fault" = "Double fault";
+"Miss" = "Miss";
+"Service ace" = "Service ace";
+"Winner" = "Winner";
+
+//
+"Court" = "Court";
+"Add member" = "Add member";
+
+// Side menu - settings
+"Settings - Others" = "Settings - Others";
+"Winning percentage" = "Winning percentage";
+"Victory number" = "Victory number";
+
+// Group
+"Group name" = "Group name";
+"Add new group" = "Add new group";
+"Select a group to register scores" = "Select a group to register scores";
+"Enter group name" = "Enter group name";
+"Image" = "Image";
+"Create" = "Create";
+
+// Group - profile
+"Add member error" = "Add member error";
+"Add member success" = "Add member success";
+
+// Change email
+"Email address" = "Email address";
+
+// Gender
+"Gender" = "Sex";
+"Male" = "Male";
+"Female" = "Female";
+"Not set" = "Not set";
+
+// Match types
+"Singles" = "Singles";
+"Doubles" = "Doubles";
+
+//error
+"Please re-check data your input" = "Please re-check data your input";
+"Request time out" = "Request time out";
+"Error" = "Error";
+"Request time out. Please re-login" = "Request time out. Please re-login";
+
