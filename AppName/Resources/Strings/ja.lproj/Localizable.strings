@@ -1,3 +1,4 @@
+"Add match success" = "Add match success";
 "Add member" = "メンバーの追加";
 "Add member error" = "メンバーの追加が正しく行われませんでした";
 "Add member success" = "メンバーを追加しました";
@@ -40,6 +41,7 @@
 "Easily confirm score ranking within group" = "グループ内の\nスコアランキングを\n簡単に確認";
 "Easily manage team and circle members with group functions" = "チームやサークルの\nメンバーを\nグループ機能で簡単に管理";
 "Easy to operate \n Tennis score \n Record in app" = "簡単操作で\nテニスのスコアを\nアプリに記録";
+"Edit match success" = "Edit match success";
 "Edit profile" = "プロフィール編集";
 "Edit score" = "Edit score";
 "Email" = "メールアドレス";
@@ -138,6 +140,7 @@
 "Sorry! There are no images here!" = "Sorry! There are no images here!";
 "Start" = "はじめる";
 "Success" = "成功";
+"Successfully sign up" = "Successfully sign up";
 "Switch to doubles" = "ダブルスに切り替える";
 "Switch to singles" = "シングルスに切り替える";
 "Terms of services" = "利用規約";
@@ -170,6 +173,4 @@
 "Would you like to create new account?" = "新規アカウントを作成しますか？";
 "You" = "あなた";
 "Your email is not valid" = "Your email is not valid";
-"Add match success" = "Add match success";
-"Edit match success" = "Edit match success";
-"Successfully sign up" = "Successfully sign up";
+"Any Group2" = "Any Group2";
