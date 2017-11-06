@@ -1,298 +1,175 @@
-/* 
-  Localizable.strings
-  ScoreMatch
-
-  Created by Quyen Xuan on 9/16/17.
-  Copyright © 2017 Innovatube. All rights reserved.
-*/
-
-"Group" = "グループ";
-
-"Any Group" = "全てのグループ";
-
-"Switch to singles" = "シングルスに切り替える";
-
-"Switch to doubles" = "ダブルスに切り替える";
-
+"Add member" = "メンバーの追加";
+"Add member error" = "メンバーの追加が正しく行われませんでした";
+"Add member success" = "メンバーを追加しました";
 "Add new game" = "ゲームを追加する";
-
-"Create group success" = "グループを作成しました";
-
-"Create group error" = "グループの作成に失敗しました";
-
-"Failed" = "失敗";
-
-"Success" = "成功";
-
-"Login" = "ログイン";
-
-"SignUp error" = "サインアップ エラー";
-
-"SignUp" = "サインアップ";
-
-"Start" = "はじめる";
-
-"Next" = "つぎへ";
-
-"OK" = "OK";
-
-"Cancel" = "キャンセル";
-
-"Delete" = "Delete";
-
-"Skip" = "スキップ";
-
-"Done" = "Done";
-
-"Unnamed" = "名称未設定";
-
-"Are you sure you want to skip the tutorial? You can call the tutorial again anytime from \"Settings/Others\"" = "チュートリアルをスキップしてよろしいですか? チュートリアルは「設定・その 他」からいつでもふたたび呼び出すことができます。";
-
+"Add new group" = "新規グループ";
 "Add new match" = "新規スコア";
-"Enter new score" = "新規スコア入力";
-"Edit score" = "Edit score";
-
-"Select court surface type" = "コートサーフェスを選択してください";
-
-"Unnamed authority" = "名称未設定";
-
+"Add point" = "Add point";
+"Add set" = "セットを追加する";
+"All current game data will be deleted, are you sure?" = "All current game data will be deleted, are you sure?";
+"All periods" = "すべての期間";
+"Already have an account?" = "すでにアカウントお持ちですか？";
+"Any Group" = "全てのグループ";
+"Application settings - Other" = "アプリ設定・その他";
+"Are you sure you want to change server orders?" = "サーバーの順番を変えてもよろしいですか?";
+"Are you sure you want to leave this group?" = "グループを脱退してもよろしいですか？";
+"Are you sure you want to logout?" = "ログアウトしてもよろしいですか？";
+"Are you sure you want to skip the tutorial? You can call the tutorial again anytime from \"Settings/Others\"" = "チュートリアルをスキップしてよろしいですか? チュートリアルは「設定・その 他」からいつでもふたたび呼び出すことができます。";
+"Birthday" = "誕生日";
+"By creating an account, you agree to the terms of use and privacy policy." = "アカウントを作成することで、ご利用規約とプライバシーポリシーに同意したとみなされます。";
+"Cancel" = "キャンセル";
+"Change" = "Change";
+"Clay" = "クレーコート";
+"Close" = "閉じる";
+"Confirmation email has been sent. Please check your inbox and follow guide to continue" = "確認のメールを送信しました。受信箱を確認し、ガイドに従ってください";
+"Contact Us" = "お問い合わせ";
+"Country" = "Country";
+"Court" = "コート";
+"Create" = "作成する";
+"Create group error" = "グループの作成に失敗しました";
+"Create group success" = "グループを作成しました";
+"Defeat" = "負け";
+"Delete" = "Delete";
+"Did you forget your password?" = "パスワードをお忘れですか？";
 "Do not register in group" = "グループには登録しない";
-
+"Done" = "Done";
+"Double fault" = "ダブルフォールト";
+"Double fault rate" = "ダブル\nフォルト率";
+"Doubles" = "ダブルス";
+"Duplicate member" = "メンバーが重複しています";
+"Easily confirm score ranking within group" = "グループ内の\nスコアランキングを\n簡単に確認";
+"Easily manage team and circle members with group functions" = "チームやサークルの\nメンバーを\nグループ機能で簡単に管理";
+"Easy to operate \n Tennis score \n Record in app" = "簡単操作で\nテニスのスコアを\nアプリに記録";
+"Edit profile" = "プロフィール編集";
+"Edit score" = "Edit score";
+"Email" = "メールアドレス";
+"Email address" = "メールアドレス";
+"Enter group name" = "グループ名";
+"Enter name etc." = "名前などを入力";
+"Enter new score" = "新規スコア入力";
+"Enter your email address" = "メールアドレスを入力してください";
+"Error" = "エラー";
+"Error leave" = "エラーが発生しました";
+"Facebook sign up error" = "Facebookログインでエラーが発生しました";
+"Failed" = "失敗";
+"Female" = "女性";
+"First server" = "最初のサーバー";
+"From the input score \n Win rate / mistake probability etc. \n Automatic analysis" = "入力されたスコアから\n勝率・ミス確率などを\n自動で分析";
+"Game" = "ゲーム";
+"Game %d" = "ゲーム%d";
+"Gender" = "性別";
+"Get members error" = "選手の取得に失敗しました";
+"Group" = "グループ";
+"Group avatar" = "グループアイコン";
+"Group name" = "グループ名";
+"Group setting" = "グループ設定";
+"Hard" = "ハードコート";
+"Help" = "ヘルプ";
+"Home" = "ホーム";
+"If server order changed, all exist games will be delete. This action can not be undo" = "サーバーの順番を帰ると、登録済みのすべてのゲームが削除されます。";
+"Image" = "Image";
+"Leave" = "脱退する";
+"Leave group" = "グループを脱退する";
+"Leave success" = "脱退しました";
+"Login" = "ログイン";
+"Logout" = "ログアウト";
+"Logout error" = "ログアウトに失敗しました";
+"Male" = "男性";
+"Member list" = "メンバー一覧";
+"Miss" = "ミス";
+"Miss rate" = "ミス率";
+"Name" = "名前";
 "New group" = "新規グループ";
-
-"Sorry! There are no images here!" = "Sorry! There are no images here!";
-
-// Score history
+"Next" = "つぎへ";
+"Not set" = "設定しない";
+"Notification settings" = "通知設定";
+"OK" = "OK";
+"Omni" = "オムニコート";
+"Other" = "その他";
+"Password" = "パスワード";
+"Password must be less than 8 characters" = "Password must be less than 8 characters";
+"Please check your email and following the guide" = "パスワードリセットを行う方法をメールで送信しました。";
+"Please re-check data your input" = "入力が間違っています";
+"Please select" = "選択してください";
+"Please tap the first server." = "最初のサーバーをタップしてください。";
+"Please tap the second server." = "２番めのサーバーをタップしてください";
+"Privacy policy" = "プライバシーポリシー";
+"Profile image" = "プロフィール画像";
+"Ranking" = "ランキング";
+"Recent opponents" = "最近の対戦相手";
+"Remote notifications are disabled" = "Remote notifications are disabled.\nGo to system Settings > Notifications > ScoreMatch and turn it on";
+"Report" = "分析";
+"Request time out" = "リクエストがタイム・アウトしました";
+"Request time out. Please re-login" = "リクエストがタイム・アウトしました。もう一度ログインしてください";
+"Save" = "保存する";
+"Saving..." = "        保存中...        ";
 "Score history" = "スコア履歴";
 "Score history empty" = "表示する情報がありません。\n新しいスコアの入力はこちらから";
-
-"Member list" = "メンバー一覧";
-
-// Ranking
-"Ranking" = "ランキング";
-"Winning percentage" = "勝率";
-"Victory number" = "勝利数";
-
-// Group popup list
-"Select a group to register scores" = "スコアを登録するグループを選択";
-"Whichever group you register, you can see it in the home feed" = "どのグループに登録しても、ホームのフィードでは見ることができます。";
-
-// Group settings screen
-"Group setting" = "グループ設定";
-"Group name" = "グループ名";
-"Group avatar" = "グループアイコン";
-"Are you sure you want to leave this group?" = "グループを脱退してもよろしいですか？";
-"Leave" = "脱退する";
-"Leave success" = "脱退しました";
-"Leave group" = "グループを脱退する";
-"Error leave" = "エラーが発生しました";
-
-// Member list and recent opponents screen
-"You" = "あなた";
-"Selection of athlete" = "選手の選択";
-"Get members error" = "選手の取得に失敗しました";
-"Search results" = "検索結果";
-"Enter name etc." = "名前などを入力";
-"Recent opponents" = "最近の対戦相手";
-
-// Home screen
-"Home" = "ホーム";
-
-"User" = "User";
-
-"Report" = "分析";
-
-// Score statistics
 "Score statistics" = "分析";
-"Winning percentage" = "勝率";
-"Win" = "勝ち";
-"Defeat" = "負け";
-"Server keep rate" = "サービス\nキープ率";
-"Service ace" = "サービス\nエース率";
-"Double fault rate" = "ダブル\nフォルト率";
-"Winner rate" = "ウィナー率";
-"Miss rate" = "ミス率";
-"Total games" = "総試合数";
-"Singles" = "シングルス";
-"Doubles" = "ダブルス";
-
-// Score statistics - empty state
 "Score statistics empty" = "表示する情報がありません。\nスコア履歴がたまっていくと\n様々な情報の分析結果がここに表示されます。\n\n新しいスコアの入力はこちらから";
 "Score statistics empty of other user" = "表示する情報がありません。\nスコア履歴がたまっていくと\n様々な情報の分析結果がここに表示されます。";
-
-// Set statistics
+"Search results" = "検索結果";
+"Second server" = "２番めのサーバー";
+"Select a group to register scores" = "スコアを登録するグループを選択";
+"Select court surface type" = "コートサーフェスを選択してください";
+"Select the 1st server" = "Select the 1st server";
+"Select the 2nd server" = "Select the 2nd server";
+"Selection of athlete" = "選手の選択";
+"Send" = "送信";
+"Server keep rate" = "サービス\nキープ率";
+"Server setting" = "SERVER SETTING";
+"Service ace" = "サービスエース";
 "Set" = "セット";
 "Set %d" = "セット%d";
-
-// Game statistics - change tie-break alert
-"Tie-break change" = "Tie-break change";
-"All current game data will be deleted, are you sure?" = "All current game data will be deleted, are you sure?";
-"Change" = "Change";
-"Game" = "ゲーム";
-"Game %d" = "ゲーム%d"; // Game index title
-
-// Side menu
-"Add new group" = "新規グループ";
-
-// Forgot password
-"Unknown error from server" = "エラーが発生しました";
-"Please check your email and following the guide" = "パスワードリセットを行う方法をメールで送信しました。";
-
-// Settings screen
-"Application settings - Other" = "アプリ設定・その他";
-"Are you sure you want to logout?" = "ログアウトしてもよろしいですか？";
-"Unknown error" = "エラーが発生しました";
-"Logout error" = "ログアウトに失敗しました";
-"User information" = "ユーザー情報";
-"Notification settings" = "通知設定";
-"Tutorial" = "チュートリアル";
-"Help" = "ヘルプ";
-"Contact Us" = "お問い合わせ";
-"Terms of services" = "利用規約";
-"Privacy policy" = "プライバシーポリシー";
-"Version information" = "バージョン・ライセンス情報";
-"Logout" = "ログアウト";
-
-// User settings
-"Edit profile" = "プロフィール編集";
-"Profile image" = "プロフィール画像";
-"Country" = "Country";
-"Birthday" = "誕生日";
+"Settings - Others" = "アプリ設定・その他";
 "Sex" = "性別";
-"Gender" = "性別";
-
-// Notification settings
-"When you create new score" = "自分が新規スコアに登録された時";
-"When your participate edit the score" = "自分の参加したスコアが編集された時";
-"When group score create" = "自分の参加しているグループに新規スコアが登録された時";
-"Remote notifications are disabled" = "Remote notifications are disabled.\nGo to system Settings > Notifications > ScoreMatch and turn it on";
-
-// Tutorial screen - it's a temporary string and will be change later
+"Sign up" = "サインアップ";
+"Sign up error" = "登録に失敗しました";
+"SignUp" = "サインアップ";
+"SignUp error" = "サインアップ エラー";
+"Signin" = "ログイン";
+"Signin with Facebook?" = "Facebookでサインイン";
+"Signin..." = "    ログイン中...    ";
+"Signup success" = "Signup success";
+"Signup with Facebook?" = "Facebookでサインイン";
+"Signup..." = "    登録中...    ";
+"Singles" = "シングルス";
+"Skip" = "スキップ";
+"Sorry! There are no images here!" = "Sorry! There are no images here!";
+"Start" = "はじめる";
+"Success" = "成功";
+"Switch to doubles" = "ダブルスに切り替える";
+"Switch to singles" = "シングルスに切り替える";
+"Terms of services" = "利用規約";
+"This member is already on match, please select another one" = "そのメンバーはすでに選択されています。他の方をお選びください。";
+"Tie break" = "タイブレーク";
+"Tie-break change" = "Tie-break change";
+"Total games" = "総試合数";
+"Tutorial" = "チュートリアル";
 "Tutorial 1/4" = "チュートリアル 1/4";
 "Tutorial 2/4" = "チュートリアル 2/4";
 "Tutorial 3/4" = "チュートリアル 3/4";
 "Tutorial 4/4" = "チュートリアル 4/4";
-"Easy to operate \n Tennis score \n Record in app" = "簡単操作で\nテニスのスコアを\nアプリに記録";
-"From the input score \n Win rate / mistake probability etc. \n Automatic analysis" = "入力されたスコアから\n勝率・ミス確率などを\n自動で分析";
-"Easily manage team and circle members with group functions" = "チームやサークルの\nメンバーを\nグループ機能で簡単に管理";
-"Easily confirm score ranking within group" = "グループ内の\nスコアランキングを\n簡単に確認";
-
-// Signin
-"Skip" = "スキップ";
-"Email" = "メールアドレス";
-"Password" = "パスワード";
-"Signin" = "ログイン";
-"Did you forget your password?" = "パスワードをお忘れですか？";
-"Signin with Facebook?" = "Facebookでサインイン";
-"Would you like to create new account?" = "新規アカウントを作成しますか？";
-"Password must be less than 8 characters" = "Password must be less than 8 characters";
-"Your email is not valid" = "Your email is not valid";
-// Signin - dialog
-"Signin..." = "    ログイン中...    ";
-
-// Forgot password
-"Enter your email address" = "メールアドレスを入力してください";
-"Send" = "送信";
-"Close" = "閉じる";
-
-// Signup
-"Name" = "名前";
-"Sign up" = "サインアップ";
-"Signup success" = "Signup success";
-"By creating an account, you agree to the terms of use and privacy policy." = "アカウントを作成することで、ご利用規約とプライバシーポリシーに同意したとみなされます。";
-"Signup with Facebook?" = "Facebookでサインイン";
-"Already have an account?" = "すでにアカウントお持ちですか？";
-"Confirmation email has been sent. Please check your inbox and follow guide to continue" = "確認のメールを送信しました。受信箱を確認し、ガイドに従ってください";
-
-// Signup - dialog
-"Signup..." = "    登録中...    ";
-
-// Signup - error string
-"Sign up error" = "登録に失敗しました";
-"Facebook sign up error" = "Facebookログインでエラーが発生しました";
-
-//
-"All periods" = "すべての期間";
-
-// Court surface type
-"Hard" = "ハードコート";
-"Omni" = "オムニコート";
-"Clay" = "クレーコート";
-"Other" = "その他";
-
-// Add new match
-"Add set" = "セットを追加する";
-"Save" = "保存する";
-"Please select" = "選択してください";
-"Duplicate member" = "メンバーが重複しています";
-"This member is already on match, please select another one" = "そのメンバーはすでに選択されています。他の方をお選びください。";
-
-// Add new match - dialog
-"Saving..." = "        保存中...        ";
-
-// New set
-"Server setting" = "SERVER SETTING";
-"First server" = "最初のサーバー";
-"Second server" = "２番めのサーバー";
-"Change" = "Change";
-"Are you sure you want to change server orders?" = "サーバーの順番を変えてもよろしいですか?";
-"If server order changed, all exist games will be delete. This action can not be undo" = "サーバーの順番を帰ると、登録済みのすべてのゲームが削除されます。";
-
-// Choose first server popup
-"Select the 1st server" = "Select the 1st server";
-"Please tap the first server." = "最初のサーバーをタップしてください。";
-"Select the 2nd server" = "Select the 2nd server";
-"Please tap the second server." = "２番めのサーバーをタップしてください";
-
-// New game
-"Tie break" = "タイブレーク";
 "Undo" = "ひとつ戻す";
-
-// New point
-"Add point" = "Add point";
-
-// Point reason type
-"Double fault" = "ダブルフォールト";
-"Miss" = "ミス";
-"Service ace" = "サービスエース";
-"Winner" = "ウィナー";
-
-//
-"Court" = "コート";
-"Add member" = "メンバーの追加";
-
-// Side menu - settings
-"Settings - Others" = "アプリ設定・その他";
-"Winning percentage" = "勝率";
+"Unknown error" = "エラーが発生しました";
+"Unknown error from server" = "エラーが発生しました";
+"Unnamed" = "名称未設定";
+"Unnamed authority" = "名称未設定";
+"User" = "User";
+"User information" = "ユーザー情報";
+"Version information" = "バージョン・ライセンス情報";
 "Victory number" = "勝利数";
-
-// Group
-"Group name" = "グループ名";
-"Add new group" = "新規グループ";
-"Select a group to register scores" = "スコアを登録するグループを選択";
-"Enter group name" = "グループ名";
-"Image" = "Image";
-"Create" = "作成する";
-
-// Group - profile
-"Add member error" = "メンバーの追加が正しく行われませんでした";
-"Add member success" = "メンバーを追加しました";
-
-// Change email
-"Email address" = "メールアドレス";
-
-// Gender
-"Gender" = "性別";
-"Male" = "男性";
-"Female" = "女性";
-"Not set" = "設定しない";
-
-// Match types
-"Singles" = "シングルス";
-"Doubles" = "ダブルス";
-
-//Error
-"Please re-check data your input" = "入力が間違っています";
-"Request time out" = "リクエストがタイム・アウトしました";
-"Error" = "エラー";
-"Request time out. Please re-login" = "リクエストがタイム・アウトしました。もう一度ログインしてください";
+"When group score create" = "自分の参加しているグループに新規スコアが登録された時";
+"When you create new score" = "自分が新規スコアに登録された時";
+"When your participate edit the score" = "自分の参加したスコアが編集された時";
+"Whichever group you register, you can see it in the home feed" = "どのグループに登録しても、ホームのフィードでは見ることができます。";
+"Win" = "勝ち";
+"Winner" = "ウィナー";
+"Winner rate" = "ウィナー率";
+"Winning percentage" = "勝率";
+"Would you like to create new account?" = "新規アカウントを作成しますか？";
+"You" = "あなた";
+"Your email is not valid" = "Your email is not valid";
+"Add match success" = "Add match success";
+"Edit match success" = "Edit match success";
+"Successfully sign up" = "Successfully sign up";
