@@ -88,6 +88,7 @@
 "Error leave" = "Error leave";
 
 // Member list and recent opponents screen
+"You" = "You";
 "Selection of athlete" = "Selection of athlete";
 "Get members error" = "Get member error";
 "Search results" = "Search results";
@@ -115,7 +116,20 @@
 "Singles" = "Singles";
 "Doubles" = "Doubles";
 
+// Score statistics - empty state
 "Score statistics empty" = "There is no information to display.\nAs the score history accumulates\nAnalysis results of various information will be displayed here.\n\nEnter a new score from here";
+"Score statistics empty of other user" = "There is no information to display.\nAs the score history accumulates\nAnalysis results of various information will be displayed here.";
+
+// Set statistics
+"Set" = "Set";
+"Set %d" = "Set %d";
+
+// Game statistics - change tie-break alert
+"Tie-break change" = "Tie-break change";
+"All current game data will be deleted, are you sure?" = "All current game data will be deleted, are you sure?";
+"Change" = "Change";
+"Game" = "Game";
+"Game %d" = "Game %d"; // Game index title
 
 // Side menu
 "Add new group" = "Add new group";
@@ -127,13 +141,13 @@
 "Please check your email and following the guide" = "Please check your email and following the guide";
 
 // Settings screen
-"Application settings" = "Application settings";
+"Application settings - Other" = "Application settings - Other";
 "Are you sure you want to logout?" = "Are you sure you want to logout?";
 "Unknown error" = "Unknown error";
 "Logout error" = "Logout error";
 "User information" = "User information";
 "Notification settings" = "Notification settings";
-"Tutorial" = "Tutotial";
+"Tutorial" = "Tutorial";
 "Help" = "Help";
 "Contact Us" = "Contact Us";
 "Terms of services" = "Terms of services";
@@ -153,6 +167,7 @@
 "When you create new score" = "When you create new score";
 "When your participate edit the score" = "When your participate edit the score";
 "When group score create" = "When group score create";
+"Remote notifications are disabled" = "Remote notifications are disabled.\nGo to system Settings > Notifications > ScoreMatch and turn it on";
 
 // Tutorial screen - it's a temporary string and will be change later
 "Tutorial 1/4" = "Tutorial 1/4";
@@ -175,7 +190,8 @@
 
 // Signin - dialog
 "Signin..." = "    Signin...    ";
-
+"Password must be less than 8 characters" = "Password must be less than 8 characters";
+"Your email is not valid" = "Your email is not valid";
 // Forgot password
 "Enter your email address" = "Enter your email address";
 "Send" = "Send";

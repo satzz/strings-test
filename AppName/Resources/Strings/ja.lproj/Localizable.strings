@@ -1,252 +1,298 @@
-//Commons
-"COMMONS_CANCEL" = "キャンセル";
-"COMMONS_SIGN_UP" = "登録する";
-
-//NavigationBars
-"NAVIGATIONBAR_TITLE_HOME" = "ホーム";
-"NAVIGATIONBAR_TITLE_CATEGORY" = "カテゴリー";
-"NAVIGATIONBAR_TITLE_SPECIAL" = "特集";
-"NAVIGATIONBAR_TITLE_FAVORITE" = "お気に入り";
-"NAVIGATIONBAR_TITLE_SCHEDULE" = "スケジュール";
-"NAVIGATIONBAR_TITLE_SETTING" = "アカウント";
-
-"NAVIGATIONBAR_BUTTON_ADD" = "追加";
-"NAVIGATIONBAR_BUTTON_EDIT" = "編集";
-"NAVIGATIONBAR_BUTTON_APPLY" = "適用";
-"NAVIGATIONBAR_BUTTON_CANCEL" = "キャンセル";
-"NAVIGATIONBAR_BUTTON_DELETE" = "削除";
-
-// Sale
-"SEARCH_RESULT_ALMOST_SOLD_OUT" = "残りわずか";
-"SEARCH_RESULT_SOLD_OUT" = "Sold Out";
-
-//ViewControllers
-"SETTINGVIEW_TITLE" = "アカウント設定";
-
-"SETTINGVIEW_SECTION_HEADER_STATUS" = "ご利用状況";
-"SETTINGVIEW_SECTION_HEADER_USER_SETTING" = "ユーザ設定";
-"SETTINGVIEW_SECTION_HEADER_ABOUT" = "サービスについて";
-
-"SETTINGVIEW_CELL_COUPON" = "smarbyクーポンの確認";
-"SETTINGVIEW_CELL_HISTORY" = "ご注文履歴";
-"SETTINGVIEW_CELL_USER_INFO" = "お客様(ご登録者)情報の設定";
-"SETTINGVIEW_CELL_NOTIFICATION" = "通知設定";
-
-"SETTINGVIEW_CELL_REVIEW" = "レビューを書く";
-"SETTINGVIEW_CELL_CUSTOMER_SUPPORT" = "カスタマーサポート";
-"SETTINGVIEW_CELL_TERMS" = "利用規約";
-"SETTINGVIEW_CELL_PRIVACY_POLICY" = "プライバシーポリシー";
-"SETTINGVIEW_CELL_SPECIFIED_COMMERCIAL_TRANSACTION" = "特定商取引法に基づく表示";
-"SETTINGVIEW_CELL_LICENSE" = "ライセンス";
+/* 
+  Localizable.strings
+  ScoreMatch
 
-"SETTINGVIEW_CELL_SIGN_UP" = "新規登録";
-"SETTINGVIEW_CELL_LOGIN" = "ログイン";
+  Created by Quyen Xuan on 9/16/17.
+  Copyright © 2017 Innovatube. All rights reserved.
+*/
 
-"SIGNUPVIEW_TITLE" = "新規会員登録";
-"SIGNUPVIEW_NOTIFICATION_ERROR_EMAIL" = "メールアドレスが入力されていません";
-"SIGNUPVIEW_NOTIFICATION_ERROR_PASSWORD_MIN" = "パスワードは8文字以上にしてください";
-"SIGNUPVIEW_NOTIFICATION_ERROR_PASSWORD_MAX" = "パスワードは20文字以内にしてください";
-"SIGNUPVIEW_ALERT_TITLE_CONFIRM_MAIL_ADDRESS" = "メールアドレスの確認";
-"SIGNUPVIEW_ALERT_MESSAGE_CONFIRM_MAIL_ADDRESS" = "%@で間違いないでしょうか？";
-"SIGNUPVIEW_SUCCESSFUL" = "ログインしました";
+"Group" = "グループ";
 
-"LOGINVIEW_TITLE" = "ログイン";
-"LOGINVIEW_NOTIFICATION_ERROR" = "メールアドレスまたはパスワードが正しくありません";
-"LOGINVIEW_SUCCESSFUL" = "ログインしました";
+"Any Group" = "全てのグループ";
 
-"RESENDPASSWORDVIEW_TITLE" = "パスワード再発行";
-"RESENDPASSWORDVIEW_NOTIFICATION_RESEND" = "ご登録メールアドレスに確認メールをお送りしました";
-
-"NOTIFICATIONVIEW_TITLE" = "通知設定";
+"Switch to singles" = "シングルスに切り替える";
 
-"NOTIFICATIONVIEW_SECTION_HEADER_NOTIFICATION_MAIL" = "メール通知";
-"NOTIFICATIONVIEW_SECTION_HEADER_NOTIFICATION_APP" = "アプリのプッシュ通知";
+"Switch to doubles" = "ダブルスに切り替える";
 
-"NOTIFICATIONVIEW_CELL_DAILYSALE" = "デイリーセール・ニュースレター";
-"NOTIFICATIONVIEW_CELL_NOTIFICATION_DAILYSALE" = "デイリーセール通知";
-"NOTIFICATIONVIEW_CELL_NOTIFICATION_ACCOUNT" = "アカウント情報の更新";
+"Add new game" = "ゲームを追加する";
 
-"USERINFOLISTVIEW_TITLE" = "お客様(ご登録者)情報の設定";
-"USERINFOLISTVIEW_CELL_PROFILE" = "プロフィール設定";
-"USERINFOLISTVIEW_CELL_PASSWORD" = "パスワード設定";
-"USERINFOLISTVIEW_CELL_ADDRESS" = "お届け先住所登録";
-"USERINFOLISTVIEW_CELL_CREDIT_CARD" = "クレジットカードの登録";
+"Create group success" = "グループを作成しました";
 
-"PROFILEVIEW_TITLE" = "プロフィール設定";
+"Create group error" = "グループの作成に失敗しました";
 
-"PASSWORDVIEW_TITLE" = "パスワード設定";
-"PASSWORDVIEW_SECTION_HEADER_UPDATE_PASSWORD" = "パスワード更新";
-"PASSWORDVIEW_SECTION_HEADER_RESET_PASSWORD" = "パスワードを忘れられた方";
+"Failed" = "失敗";
 
-"ADDRESSLISTVIEW_TITLE" = "お届け先住所登録";
-
-"ADDRESSINPUTVIEW_TITLE" = "お届け先の入力";
-"ADDRESSINPUTVIEW_CELL_LASTNAME" = "姓";
-"ADDRESSINPUTVIEW_CELL_FIRSTNAME" = "名";
-"ADDRESSINPUTVIEW_CELL_ZIPCODE" = "郵便番号\n(-なし)";
-"ADDRESSINPUTVIEW_CELL_PREFECTURE" = "都道府県";
-"ADDRESSINPUTVIEW_CELL_CITY" = "市区町村";
-"ADDRESSINPUTVIEW_CELL_ADDRESS" = "丁番地";
-"ADDRESSINPUTVIEW_CELL_APT" = "アパート・マンション名";
-"ADDRESSINPUTVIEW_CELL_PHONE" = "電話番号 (-なし)";
+"Success" = "成功";
 
-"CREDITLISTVIEW_TITLE" = "クレジットカード一覧";
-
-"CREDITINPUTVIEW_TITLE" = "クレジットカードの入力";
-"CREDITINPUTVIEW_CELL_PLACEHOLDER_NAME" = "カード名義人 (英字)";
-"CREDITINPUTVIEW_CELL_PLACEHOLDER_NUMBER" = "クレジットカード番号 (16桁)";
-"CREDITINPUTVIEW_CELL_PLACEHOLDER_EXPIRE_DATE" = "有効期限 (月/年)";
-"CREDITINPUTVIEW_CELL_PLACEHOLDER_SECURITY_CODE" = "セキュリティコード (数字)";
-
-"CREDITDETAILVIEW_TITLE" = "クレジットカード確認";
+"Login" = "ログイン";
 
+"SignUp error" = "サインアップ エラー";
 
-"HISTORYVIEW_TITLE" = "購入履歴";
+"SignUp" = "サインアップ";
 
-"HISTORYITEMVIEW_SECTION_HEADER_STATUS" = "配送状況";
-"HISTORYITEMVIEW_SECTION_HEADER_ITEM" = "ご購入された商品";
-"HISTORYITEMVIEW_SECTION_HEADER_SHIPPING_ADDRESS" = "お届け先";
-"HISTORYITEMVIEW_CELL_STATUS" = "配送状況";
-"HISTORYITEMVIEW_CELL_SHIPPING_SCHEDULE" = "ご配送予定";
-"HISTORYITEMVIEW_CELL_ORDER_DATE" = "ご注文日";
-"HISTORYITEMVIEW_CELL_PAYMENT_METHOD" = "お支払情報";
-"HISTORYITEMVIEW_CELL_NAME" = "お名前";
-"HISTORYITEMVIEW_CELL_SHIPPING_ADDRESS" = "お届け先住所";
-"HISTORYITEMVIEW_CELL_PHONE" = "お電話番号";
+"Start" = "はじめる";
 
-"COUPONVIEW_TITLE" = "smarbyクーポン";
-"COUPONVIEW_COPIED_TO_CLIPBOARD" = "クリップボードにコピーしました";
+"Next" = "つぎへ";
 
-"HOWITWORKSCOUPONVIEW_TITLE" = "クーポン利用について";
+"OK" = "OK";
 
-"LICENSESVIEW_TITLE" = "ライセンス";
+"Cancel" = "キャンセル";
 
-"SPECIFIEDCOMMERCIALTRANSACTIONVIEW_TITLE" = "特定商取引法に基づく表示";
+"Delete" = "Delete";
 
-"PRIVACYPOLICYVIEW_TITLE" = "プライバシーポリシー";
+"Skip" = "スキップ";
 
-"TERMSVIEW_TITLE" = "利用規約";
+"Done" = "Done";
 
-"CUSTOMERSUPPORTVIEW_TITLE" = "カスタマーサポート";
-"CUSTOMERSUPPORTVIEW_CELL_HOWITWORKS" = "ご利用の流れ";
-"CUSTOMERSUPPORTVIEW_CELL_POINTS" = "クーポン利用について";
-"CUSTOMERSUPPORTVIEW_CELL_RETURNPOLICY" = "返品ポリシー";
-"CUSTOMERSUPPORTVIEW_CELL_FAQ" = "FAQ (よくある質問)";
+"Unnamed" = "名称未設定";
 
-"HOWITWORKSVIEW_TITLE" = "ご利用の流れ";
+"Are you sure you want to skip the tutorial? You can call the tutorial again anytime from \"Settings/Others\"" = "チュートリアルをスキップしてよろしいですか? チュートリアルは「設定・その 他」からいつでもふたたび呼び出すことができます。";
 
-"POINTSVIEW_TITLE" = "クーポン利用について";
+"Add new match" = "新規スコア";
+"Enter new score" = "新規スコア入力";
+"Edit score" = "Edit score";
 
-"RETURNPOLICYVIEW_TITLE" = "返品ポリシー";
+"Select court surface type" = "コートサーフェスを選択してください";
 
-"FAQVIEW_TITLE" = "FAQ(よくある質問)";
+"Unnamed authority" = "名称未設定";
 
+"Do not register in group" = "グループには登録しない";
 
-"SHOPPINGBAGVIEW_TITLE" = "カート";
-"SHOPPINGBAGVIEW_ADDRESS_TITLE" = "配送先";
-"SHOPPINGBAGVIEW_PAYMENT_TITLE" = "支払";
-"SHOPPINGBAGVIEW_SHIPPING_TITLE" = "お届け時間帯";
-"SHOPPINGBAGVIEW_COUPON_TITLE" = "クーポン利用";
-"SHOPPINGBAGVIEW_TOTAL" = "合計 %@";
-"SHOPPINGBAGVIEW_PLACE_ORDER_BUTTON" = "購入に進む";
+"New group" = "新規グループ";
 
-"USECOUPONVIEW_TITLE" = "クーポン利用";
-"USECOUPONVIEW_YOUR_COUPON" = "現在の所持クーポン";
-"USECOUPONVIEW_PURCHASED_AMOUNT" = "ご購入金額";
-"USECOUPONVIEW_AVAILABLE_COUPON" = "ご利用可能クーポン";
-"USECOUPONVIEW_USE_COUPON_BUTTON" = "クーポンを利用する";
-"USECOUPONVIEW_CANCEL_BUTTON" = "今回は利用しない";
+"Sorry! There are no images here!" = "Sorry! There are no images here!";
 
-"ORDERCONFIRMATIONVIEW_TITLE" = "ご注文内容の確認";
+// Score history
+"Score history" = "スコア履歴";
+"Score history empty" = "表示する情報がありません。\n新しいスコアの入力はこちらから";
 
-"ORDERCOMPLETEDVIEW_TITLE" = "購入完了";
+"Member list" = "メンバー一覧";
 
-"FILTERVIEW_TITLE" = "フィルター";
+// Ranking
+"Ranking" = "ランキング";
+"Winning percentage" = "勝率";
+"Victory number" = "勝利数";
 
-"ITEMDETAILVIEW_CARTBUTTON_TITLE_SOLDOUT" = "戻る (Sold Out)";
-"ITEMDETAILVIEW_CARTBUTTON_TITLE_NOT_LOGIN" = "ログインしてカートに入れる";
-"ITEMDETAILVIEW_CARTBUTTON_TITLE_IS_LOGIN" = "カートに入れる";
-"ITEMDETAILVIEW_ALERT_MUST_SIZE_FAILURE_TITLE" = "エラー";
-"ITEMDETAILVIEW_ALERT_MUST_SIZE_FAILURE_BODY" = "サイズを指定してください";
-"ITEMDETAILVIEW_INCLUDING_TAX_LABEL" = " (税込)";
+// Group popup list
+"Select a group to register scores" = "スコアを登録するグループを選択";
+"Whichever group you register, you can see it in the home feed" = "どのグループに登録しても、ホームのフィードでは見ることができます。";
 
-"HOMEVIEW_EXPIRELABEL_SALE_IS_DONE" = "このセールは終了しました";
-"HOMEVIEW_EXPIRELABEL_SALE_REST_SECOND" = "残り%ld秒";
-"HOMEVIEW_EXPIRELABEL_SALE_REST_MINUTE" = "残り%d分";
-"HOMEVIEW_EXPIRELABEL_SALE_REST_HOUR" = "残り%d時間";
-"HOMEVIEW_EXPIRELABEL_SALE_REST_DAY" = "残り%d日";
+// Group settings screen
+"Group setting" = "グループ設定";
+"Group name" = "グループ名";
+"Group avatar" = "グループアイコン";
+"Are you sure you want to leave this group?" = "グループを脱退してもよろしいですか？";
+"Leave" = "脱退する";
+"Leave success" = "脱退しました";
+"Leave group" = "グループを脱退する";
+"Error leave" = "エラーが発生しました";
 
-"ADDCARTVIEW_QUANTITY_AND_PRICE_LABEL" = "数量 1 @¥%@";
-"ADDCARTVIEW_SIZELABEL" = "サイズ %@";
-"ADDCARTVIEW_EXPLANATION_OF_CART_LABEL" = "カートの保存期間は30分です\nブックマークとしてもカートをご活用ください";
+// Member list and recent opponents screen
+"You" = "あなた";
+"Selection of athlete" = "選手の選択";
+"Get members error" = "選手の取得に失敗しました";
+"Search results" = "検索結果";
+"Enter name etc." = "名前などを入力";
+"Recent opponents" = "最近の対戦相手";
 
-"ADDCARTVIEW_TITLE" = "こちらの商品をカートに追加しました";
-"ADDCARTVIEW_GOCART_BUTTON" = "購入手続きに進む";
-"ADDCARTVIEW_BACK_BUTTON" = "続けてお買い物を楽しむ";
-"ADDCARTVIEW_ADDCART_PROGRESS_STATUS" = "カートに追加中…";
-"ADDCARTVIEW_ALERT_ADDCART_FAILURE_TITLE" = "他のお客様がお取り置き中";
-"ADDCARTVIEW_ALERT_ADDCART_FAILURE_BODY" = "カートに追加されませんでした";
+// Home screen
+"Home" = "ホーム";
 
-"CARTVIEW_ITEM_RESERVE_ATTENTION" = "取り置き時間を過ぎた商品はカート内より削除されます";
-
-"SCHEDULECOLLECTIONVIEW_CELL_FAVORITE" = "お気に入り";
-"SALEDETAILVIEW_SHARE_TEXT" = "お気に入りの「%@」がsmarbyでお得なイベント開催中♪：https://smarby.jp/";
-"ITEMDETAILVIEW_SHARE_TEXT" = "%@ / %@ がsmarbyで販売中♪：https://smarby.jp/";
-"ITEMDETAILVIEW_SHARE_TEXT_NO_SALE" = "%@ がsmarbyで販売中♪：https://smarby.jp/";
-
-"PASSWORD_RANGE" = "半角英数8文字以上20文字以内";
-"ADDRESSVIEW_NO_ADDRESS" = "住所を入力してください";
-"FAVORITE_VIEW_HEADER_PRODUCT" = "商品";
-
-"COUPON_REGISTER_SUCCESS_ALERT_VIEW_TITLE" = "登録完了";
-"COUPON_REGISTER_SUCCESS_ALERT_VIEW_BODY" = "クーポンが登録されました";
-"COUPON_REGISTER_FAILURE_ALERT_VIEW_TITLE" = "登録エラー";
-"COUPON_REGISTER_FAILURE_ALERT_VIEW_BODY" = "クーポンコードをご確認ください";
-"DELIVERYTIME_SET_ERROR_ALERTVIEW_TITLE" = "エラー";
-"DELIVERYTIME_SET_ERROR_ALERTVIEW_BODY" = "配送時間帯の設定ができませんでした";
-
-"ORDER_CONFIRM_VIEW_CONFIRM_ERROR_ALERT_TITLE" = "配送先、お支払方法を入力してください";
-"ORDER_CONFIRM_VIEW_CONFIRM_ERROR_ALERT_BODY" = "OKを押すとカート画面に戻ります";
-
-"ORDER_CONFIRM_VIEW_CONFIRMING" = "カート確認中…";
-"CARTVIEW_FREE_SHIPPING" = "お会計3,000円(税込)以上で送料無料!!";
-
-"CARTVIEW_ARRIVAL_TIME_LABEL" = "yyyy'年'MM'月'dd'日までにお届け";
-"CARTVIEW_ADDRESS_NO_EXIST_LABEL" = "配送先を指定してください";
-"CARTVIEW_PAYMENT_NO_EXIST_LABEL" = "支払い方法を登録してください";
-
-"CREDITINPUTVIEW_CELL_PLACEHOLDER_EXPIRE_MONTH" = "有効期限  月：";
-"CREDITINPUTVIEW_CELL_PLACEHOLDER_EXPIRE_YEAR" = "年：";
-
-"SHOPPINGBAGVIEW_CHANGE_LINE_ITEM_COUNT" = "カート更新中...";
-"DELIVERY_TIME_SELECT_VIEW_TITLE" = "お届け時間の設定";
-
-"ITEMDETAIL_ARRIVAL_LABEL" = "yyyy'年'MM'月'dd'日'までにお届け予定";
-"FORGET_PASSWORD_VIEW_REQUEST_FAILURE_ALERT_TITLE" = "エラー";
-"FORGET_PASSWORD_VIEW_REQUEST_FAILURE_ALERT_BODY" = "送信に失敗しました";
-
-"PASSWORD_UPDATE_SUCCESS_ALERTVIEW_TITLE" = "パスワード変更完了";
-"PASSWORD_UPDATE_SUCCESS_ALERTVIEW_BODY" = "パスワードを変更しました";
-
-"ITEMDETAIL_TERM_LABEL_NO_SALE" = "詳細はホーム画面を御覧ください";
-
-"SIGNUPVIEW_SIGNUPBUTTON_TITLE" = "登録してセールに参加する";
-
-"INTRODUCTIONVIEW_LEFT_TITLE" = "ママのための会員限定\nファッションセールアプリ";
-"INTRODUCTIONVIEW_LEFT_DESCRIPTION01" = "子供服・雑貨の人気アイテムが\n全品タイムセールで";
-"INTRODUCTIONVIEW_LEFT_DESCRIPTION02" = "最大80%OFF！";
-"INTRODUCTIONVIEW_CENTER_TITLE" = "現役ママバイヤーが選んだ\n人気ブランドが日替わり登場";
-"INTRODUCTIONVIEW_CENTER_DESCRIPTION" = "子供服、ベビー服を中心に雑貨やおもちゃ、\nマタニティ服やレディースアイテムも♪";
-"INTRODUCTIONVIEW_RIGHT_TITLE" = "おトクに楽しく、簡単に。\nスマートにショッピング！";
-"INTRODUCTIONVIEW_RIGHT_DESCRIPTION" = "アプリの通知やメールマガジンで\nタイムセール情報をゲット ";
-
-"INTRODUCTIONVIEW_NEXT_BUTTON" = "次へ";
-"INTRODUCTIONVIEW_START_BUTTON" = "設定する";
-
-"ALERTVIEW_FORCE_UPDATE_TITLE" = "アプリの更新が必要です";
-"ALERTVIEW_FORCE_UPDATE_MESSAGE" = "新しいバージョンが公開されています\nAppStoreでアップデートしてください";
-"ALERTVIEW_FORCE_UPDATE_BUTTON" = "アップデートする";
-
-"LOCAL_NOTIFICATION_REMINDER_DEFAULT_TEXT" = "商品総入れ替わり！今週のセールブランドをチェックしてみて♪";
-
-"TOP_PAGE_FREE_SHIPPING_COST_TEXT" = "購入金額¥3,000以上送料無料";
+"User" = "User";
+
+"Report" = "分析";
+
+// Score statistics
+"Score statistics" = "分析";
+"Winning percentage" = "勝率";
+"Win" = "勝ち";
+"Defeat" = "負け";
+"Server keep rate" = "サービス\nキープ率";
+"Service ace" = "サービス\nエース率";
+"Double fault rate" = "ダブル\nフォルト率";
+"Winner rate" = "ウィナー率";
+"Miss rate" = "ミス率";
+"Total games" = "総試合数";
+"Singles" = "シングルス";
+"Doubles" = "ダブルス";
+
+// Score statistics - empty state
+"Score statistics empty" = "表示する情報がありません。\nスコア履歴がたまっていくと\n様々な情報の分析結果がここに表示されます。\n\n新しいスコアの入力はこちらから";
+"Score statistics empty of other user" = "表示する情報がありません。\nスコア履歴がたまっていくと\n様々な情報の分析結果がここに表示されます。";
+
+// Set statistics
+"Set" = "セット";
+"Set %d" = "セット%d";
+
+// Game statistics - change tie-break alert
+"Tie-break change" = "Tie-break change";
+"All current game data will be deleted, are you sure?" = "All current game data will be deleted, are you sure?";
+"Change" = "Change";
+"Game" = "ゲーム";
+"Game %d" = "ゲーム%d"; // Game index title
+
+// Side menu
+"Add new group" = "新規グループ";
+
+// Forgot password
+"Unknown error from server" = "エラーが発生しました";
+"Please check your email and following the guide" = "パスワードリセットを行う方法をメールで送信しました。";
+
+// Settings screen
+"Application settings - Other" = "アプリ設定・その他";
+"Are you sure you want to logout?" = "ログアウトしてもよろしいですか？";
+"Unknown error" = "エラーが発生しました";
+"Logout error" = "ログアウトに失敗しました";
+"User information" = "ユーザー情報";
+"Notification settings" = "通知設定";
+"Tutorial" = "チュートリアル";
+"Help" = "ヘルプ";
+"Contact Us" = "お問い合わせ";
+"Terms of services" = "利用規約";
+"Privacy policy" = "プライバシーポリシー";
+"Version information" = "バージョン・ライセンス情報";
+"Logout" = "ログアウト";
+
+// User settings
+"Edit profile" = "プロフィール編集";
+"Profile image" = "プロフィール画像";
+"Country" = "Country";
+"Birthday" = "誕生日";
+"Sex" = "性別";
+"Gender" = "性別";
+
+// Notification settings
+"When you create new score" = "自分が新規スコアに登録された時";
+"When your participate edit the score" = "自分の参加したスコアが編集された時";
+"When group score create" = "自分の参加しているグループに新規スコアが登録された時";
+"Remote notifications are disabled" = "Remote notifications are disabled.\nGo to system Settings > Notifications > ScoreMatch and turn it on";
+
+// Tutorial screen - it's a temporary string and will be change later
+"Tutorial 1/4" = "チュートリアル 1/4";
+"Tutorial 2/4" = "チュートリアル 2/4";
+"Tutorial 3/4" = "チュートリアル 3/4";
+"Tutorial 4/4" = "チュートリアル 4/4";
+"Easy to operate \n Tennis score \n Record in app" = "簡単操作で\nテニスのスコアを\nアプリに記録";
+"From the input score \n Win rate / mistake probability etc. \n Automatic analysis" = "入力されたスコアから\n勝率・ミス確率などを\n自動で分析";
+"Easily manage team and circle members with group functions" = "チームやサークルの\nメンバーを\nグループ機能で簡単に管理";
+"Easily confirm score ranking within group" = "グループ内の\nスコアランキングを\n簡単に確認";
+
+// Signin
+"Skip" = "スキップ";
+"Email" = "メールアドレス";
+"Password" = "パスワード";
+"Signin" = "ログイン";
+"Did you forget your password?" = "パスワードをお忘れですか？";
+"Signin with Facebook?" = "Facebookでサインイン";
+"Would you like to create new account?" = "新規アカウントを作成しますか？";
+"Password must be less than 8 characters" = "Password must be less than 8 characters";
+"Your email is not valid" = "Your email is not valid";
+// Signin - dialog
+"Signin..." = "    ログイン中...    ";
+
+// Forgot password
+"Enter your email address" = "メールアドレスを入力してください";
+"Send" = "送信";
+"Close" = "閉じる";
+
+// Signup
+"Name" = "名前";
+"Sign up" = "サインアップ";
+"Signup success" = "Signup success";
+"By creating an account, you agree to the terms of use and privacy policy." = "アカウントを作成することで、ご利用規約とプライバシーポリシーに同意したとみなされます。";
+"Signup with Facebook?" = "Facebookでサインイン";
+"Already have an account?" = "すでにアカウントお持ちですか？";
+"Confirmation email has been sent. Please check your inbox and follow guide to continue" = "確認のメールを送信しました。受信箱を確認し、ガイドに従ってください";
+
+// Signup - dialog
+"Signup..." = "    登録中...    ";
+
+// Signup - error string
+"Sign up error" = "登録に失敗しました";
+"Facebook sign up error" = "Facebookログインでエラーが発生しました";
+
+//
+"All periods" = "すべての期間";
+
+// Court surface type
+"Hard" = "ハードコート";
+"Omni" = "オムニコート";
+"Clay" = "クレーコート";
+"Other" = "その他";
+
+// Add new match
+"Add set" = "セットを追加する";
+"Save" = "保存する";
+"Please select" = "選択してください";
+"Duplicate member" = "メンバーが重複しています";
+"This member is already on match, please select another one" = "そのメンバーはすでに選択されています。他の方をお選びください。";
+
+// Add new match - dialog
+"Saving..." = "        保存中...        ";
+
+// New set
+"Server setting" = "SERVER SETTING";
+"First server" = "最初のサーバー";
+"Second server" = "２番めのサーバー";
+"Change" = "Change";
+"Are you sure you want to change server orders?" = "サーバーの順番を変えてもよろしいですか?";
+"If server order changed, all exist games will be delete. This action can not be undo" = "サーバーの順番を帰ると、登録済みのすべてのゲームが削除されます。";
+
+// Choose first server popup
+"Select the 1st server" = "Select the 1st server";
+"Please tap the first server." = "最初のサーバーをタップしてください。";
+"Select the 2nd server" = "Select the 2nd server";
+"Please tap the second server." = "２番めのサーバーをタップしてください";
+
+// New game
+"Tie break" = "タイブレーク";
+"Undo" = "ひとつ戻す";
+
+// New point
+"Add point" = "Add point";
+
+// Point reason type
+"Double fault" = "ダブルフォールト";
+"Miss" = "ミス";
+"Service ace" = "サービスエース";
+"Winner" = "ウィナー";
+
+//
+"Court" = "コート";
+"Add member" = "メンバーの追加";
+
+// Side menu - settings
+"Settings - Others" = "アプリ設定・その他";
+"Winning percentage" = "勝率";
+"Victory number" = "勝利数";
+
+// Group
+"Group name" = "グループ名";
+"Add new group" = "新規グループ";
+"Select a group to register scores" = "スコアを登録するグループを選択";
+"Enter group name" = "グループ名";
+"Image" = "Image";
+"Create" = "作成する";
+
+// Group - profile
+"Add member error" = "メンバーの追加が正しく行われませんでした";
+"Add member success" = "メンバーを追加しました";
+
+// Change email
+"Email address" = "メールアドレス";
+
+// Gender
+"Gender" = "性別";
+"Male" = "男性";
+"Female" = "女性";
+"Not set" = "設定しない";
+
+// Match types
+"Singles" = "シングルス";
+"Doubles" = "ダブルス";
+
+//Error
+"Please re-check data your input" = "入力が間違っています";
+"Request time out" = "リクエストがタイム・アウトしました";
+"Error" = "エラー";
+"Request time out. Please re-login" = "リクエストがタイム・アウトしました。もう一度ログインしてください";
