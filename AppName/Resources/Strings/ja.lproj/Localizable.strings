@@ -1,4 +1,4 @@
-"Add member" = "メンバーの追加";
+"Add match success" = "マッチ成功を追加する";
 "Add member error" = "メンバーの追加が正しく行われませんでした";
 "Add member success" = "メンバーを追加しました";
 "Add new game" = "ゲームを追加する";
@@ -173,4 +173,4 @@
 "Would you like to create new account?" = "新規アカウントを作成しますか？";
 "You" = "あなた";
 "Your email is not valid" = "Your email is not valid";
-"Add match success" = "マッチ成功を追加する";
+"Add member" = "メンバーを追加する";
