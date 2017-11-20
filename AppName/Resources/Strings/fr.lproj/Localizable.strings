@@ -9,7 +9,6 @@
 "Add set" = "Ajouter un ensemble";
 "All current game data will be deleted, are you sure?" = "Toutes les données de jeu actuelles seront supprimées, êtes-vous sûr?";
 "All periods" = "Toutes les périodes";
-"Already have an account?" = "Vous avez déjà un compte?";
 "Any Group" = "Tout groupe";
 "Any Group2" = "Tout groupe2";
 "Application settings - Other" = "Paramètres d'application - Autre";
@@ -173,3 +172,4 @@
 "Would you like to create new account?" = "Voulez-vous créer un nouveau compte?";
 "You" = "Toi";
 "Your email is not valid" = "Votre email n'est pas valide";
+"Already have an account?" = "Vous avez déjà un compte????";
