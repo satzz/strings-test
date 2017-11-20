@@ -1,4 +1,3 @@
-
 "Add member" = "メンバーの追加";
 "Add member error" = "メンバーの追加が正しく行われませんでした";
 "Add member success" = "メンバーを追加しました";
@@ -11,6 +10,7 @@
 "All periods" = "すべての期間";
 "Already have an account?" = "すでにアカウントお持ちですか？";
 "Any Group" = "全てのグループ";
+"Any Group2" = "Any Group2";
 "Application settings - Other" = "アプリ設定・その他";
 "Are you sure you want to change server orders?" = "サーバーの順番を変えてもよろしいですか?";
 "Are you sure you want to leave this group?" = "グループを脱退してもよろしいですか？";
@@ -32,8 +32,8 @@
 "Defeat" = "負け";
 "Delete" = "Delete";
 "Did you forget your password?" = "パスワードをお忘れですか？";
-"Do not register in group" = "グループには登録しない";
 "Done" = "Done";
+"Do not register in group" = "グループには登録しない";
 "Double fault" = "ダブルフォールト";
 "Double fault rate" = "ダブル\nフォルト率";
 "Doubles" = "ダブルス";
@@ -83,8 +83,8 @@
 "Name" = "名前";
 "New group" = "新規グループ";
 "Next" = "つぎへ";
-"Not set" = "設定しない";
 "Notification settings" = "通知設定";
+"Not set" = "設定しない";
 "OK" = "OK";
 "Omni" = "オムニコート";
 "Other" = "その他";
@@ -114,9 +114,9 @@
 "Second server" = "２番めのサーバー";
 "Select a group to register scores" = "スコアを登録するグループを選択";
 "Select court surface type" = "コートサーフェスを選択してください";
+"Selection of athlete" = "選手の選択";
 "Select the 1st server" = "Select the 1st server";
 "Select the 2nd server" = "Select the 2nd server";
-"Selection of athlete" = "選手の選択";
 "Send" = "送信";
 "Server keep rate" = "サービス\nキープ率";
 "Server setting" = "SERVER SETTING";
@@ -125,16 +125,16 @@
 "Set %d" = "セット%d";
 "Settings - Others" = "アプリ設定・その他";
 "Sex" = "性別";
-"Sign up" = "サインアップ";
-"Sign up error" = "登録に失敗しました";
-"SignUp" = "サインアップ";
-"SignUp error" = "サインアップ エラー";
 "Signin" = "ログイン";
-"Signin with Facebook?" = "Facebookでサインイン";
 "Signin..." = "    ログイン中...    ";
+"Signin with Facebook?" = "Facebookでサインイン";
+"Sign up" = "サインアップ";
+"Signup..." = "    登録中...    ";
+"SignUp" = "サインアップ";
+"Sign up error" = "登録に失敗しました";
+"SignUp error" = "サインアップ エラー";
 "Signup success" = "Signup success";
 "Signup with Facebook?" = "Facebookでサインイン";
-"Signup..." = "    登録中...    ";
 "Singles" = "シングルス";
 "Skip" = "スキップ";
 "Sorry! There are no images here!" = "Sorry! There are no images here!";
@@ -173,4 +173,4 @@
 "Would you like to create new account?" = "新規アカウントを作成しますか？";
 "You" = "あなた";
 "Your email is not valid" = "Your email is not valid";
-"Any Group2" = "Any Group2";
+"Add match success" = "マッチ成功を追加";
